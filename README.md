@@ -1,6 +1,6 @@
 # Project Snowfall ❄️
 **Student Name:** [Melanie Caines]
-**Live Link:** [Your Vercel URL]
+**Live Link:** [https://snowfall-debt-free-tracker.vercel.app/]
 
 ## 📖 Project Description
 Project Snowfall is an interactive debt-management application designed to reduce the financial anxiety that often comes with debt. Debt can feel like a massive wall of ice, preventing you from reaching your goals. This application helps users "chip away" at that ice until they reach financial liberation. Every time you log a payment, you are effectively melting the wall, releasing a "snowfall" of progress that eventually clears your path to freedom.
